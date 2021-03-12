@@ -8,7 +8,7 @@ import (
 
 const (
 	port = ":4545"
-	target = "./build"
+	target = "./public"
 )
 
 var (
