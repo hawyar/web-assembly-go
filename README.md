@@ -1,6 +1,6 @@
 Simple WebAssembly - Go
 
-[Get started](https://github.com/golang/go/wiki/WebAssembly#getting-started)  with WebAssembly (Go)
+This is an example from the docs. [Get started](https://github.com/golang/go/wiki/WebAssembly#getting-started)  with WebAssembly (Go)
 
 ### What
 
